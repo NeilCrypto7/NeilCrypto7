@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NeilCrypto7
+- 👀 I’m interested in web 3 and blockchain, shell and c langage
+- 🌱 I’m currently learning to speak more english, run node in web3 project
+- 💞️ I’m looking to collaborate on any web3 project
+- 📫 How to reach me, mail : neilcrypto7@gmail.com / discord : Neil#7985
